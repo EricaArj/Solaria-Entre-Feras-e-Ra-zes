@@ -5,6 +5,8 @@ Solaria: Entre Feras e Raízes é um jogo RPG 3D de mundo aberto focado em sobre
 🚀 Descrição Oficial para o Repositório no GitHub
 
 [EM DESENVOLVIMENTO] Jogo RPG 3D de mundo aberto e sobrevivência, com ciclos climáticos, 5 biomas procedurais (Floresta, Deserto, Tropical, Pântano, Ártico), bestiário de animais selvagens e avatar 3D com membros articulados. Desenvolvido para Web e Mobile.
+<img width="1264" height="843" alt="criação de personagem solaria" src="https://github.com/user-attachments/assets/428963d0-3b61-4822-8194-b5893571c563" />
+
 
 📌 Status do Projeto
 
