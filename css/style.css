@@ -1,0 +1,6 @@
+* { user-select: none; -webkit-user-select: none; touch-action: manipulation; }
+body { background-color: #020617; font-family: 'Inter', sans-serif; overflow: hidden; margin: 0; }
+canvas { display: block; width: 100vw; height: 100vh; }
+.glass-panel { background: rgba(15, 23, 42, 0.85); backdrop-filter: blur(8px); border: 1px solid rgba(255, 255, 255, 0.1); }
+.btn-action { transition: transform 0.05s ease, background-color 0.1s ease; }
+.btn-action:active { transform: scale(0.92); }
